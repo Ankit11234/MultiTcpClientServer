@@ -1,0 +1,7 @@
+D:\MultiTcpClientServer\client\MultiClientTcpClient\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.exe.config
+D:\MultiTcpClientServer\client\MultiClientTcpClient\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.exe
+D:\MultiTcpClientServer\client\MultiClientTcpClient\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.pdb
+D:\MultiTcpClientServer\client\MultiClientTcpClient\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.csproj.AssemblyReference.cache
+D:\MultiTcpClientServer\client\MultiClientTcpClient\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.csproj.CoreCompileInputs.cache
+D:\MultiTcpClientServer\client\MultiClientTcpClient\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.exe
+D:\MultiTcpClientServer\client\MultiClientTcpClient\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.pdb
